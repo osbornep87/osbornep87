@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osbornep87
+- 👋 Hi, I’m @s_osborne22
 - 👀 I’m interested in coading and programming
 - 🌱 I’m currently learning Python , c+, C++, coding and Programming 
 - 💞️ I’m looking to collaborate on any project that will enable me to learn and develop my skill
